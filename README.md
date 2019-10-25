@@ -1,0 +1,2 @@
+# Greenplum
+Greenplum scripts
